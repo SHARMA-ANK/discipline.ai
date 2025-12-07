@@ -1,6 +1,6 @@
-# Reel 1: The Skeleton (Clean Architecture)
+# DISCIPLINE.AI
 
-**Goal:** Show how to organize a scalable Flutter app using Clean Architecture.
+**Goal:** Explore the repo.
 
 ## Features
 
