@@ -1,6 +1,6 @@
-# DisciplineAI
+# Reel 1: The Skeleton (Clean Architecture)
 
-A strict AI-powered productivity coach built with Flutter, Supabase, and Google Gemini.
+**Goal:** Show how to organize a scalable Flutter app using Clean Architecture.
 
 ## Features
 
